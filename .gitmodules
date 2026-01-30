@@ -1,0 +1,6 @@
+[submodule "Rinne-IM-Client"]
+	path = Rinne-IM-Client
+	url = git@github.com:yurin-kami/Rinne-IM-Client.git
+[submodule "Rinne-IM-Server"]
+	path = Rinne-IM-Server
+	url = git@github.com:yurin-kami/Rinne-IM-Server.git
