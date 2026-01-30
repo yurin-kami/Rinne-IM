@@ -1,0 +1,9 @@
+{
+  "name": "rine-im-root",
+  "private": true,
+  "scripts": {
+    "dev": "cd Client && npm run dev",
+    "test": "cd Client && npm run test",
+    "build": "cd Client && npm run build"
+  }
+}
